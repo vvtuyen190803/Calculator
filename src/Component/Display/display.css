@@ -14,3 +14,9 @@
   color: gray;
   opacity: 0.6;
 }
+
+.math {
+  width: 100%;
+  white-space: nowrap;
+  overflow: hidden;
+}
