@@ -1,0 +1,42 @@
+.button-container {
+  height: 75%;
+  width: 88%;
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.button-row {
+  width: 100%;
+  display: inline-flex;
+  justify-content: space-between;
+  padding: 5px;
+}
+
+button {
+  height: 65px;
+  width: 65px;
+  font-size: 25px;
+  border-radius: 50px;
+  border: none;
+}
+
+.function {
+  background: #d4d4d4;
+  color: #1c1c1c;
+}
+
+.operator {
+  background: #ff9500;
+  color: white;
+}
+
+.number {
+  background: #505050;
+  color: white;
+}
+
+.zero {
+  width: 130px;
+}

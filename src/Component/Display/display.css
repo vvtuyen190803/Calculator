@@ -1,0 +1,16 @@
+.display {
+  height: 25%;
+  width: 88%;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  font-size: 30px;
+  align-items: end;
+  justify-content: flex-end;
+  padding: 10px;
+}
+
+.prev {
+  color: gray;
+  opacity: 0.6;
+}
